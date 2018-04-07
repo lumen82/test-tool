@@ -1,0 +1,7 @@
+{
+	"url":"/login/someOtherReq",
+	"data":{
+		"username":"test",
+		"pwd":"pwdtest"
+	}
+}

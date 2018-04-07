@@ -1,0 +1,7 @@
+{
+	"host":"http://localhost:8080",
+	"userName":"admin",
+	"pwd":"123456",
+	"encryptMsgUrl":"/login/encryptMsg",
+	"loginUrl":"/login/login"
+}
